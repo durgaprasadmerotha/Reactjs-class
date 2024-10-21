@@ -1,10 +1,5 @@
-
 const Services = () => {
-  return (
-    <div>
-      services uplabdh hai durgain ke dwara durgeshwar ke liye !
-    </div>
-  )
-}
+  return <div>services uplabdh hai</div>;
+};
 
-export default Services
+export default Services;
